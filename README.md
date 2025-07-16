@@ -1,4 +1,4 @@
-### Ahoy-hoy, fellow digital adventurers and code monkeys! I'm Aradhye Swarup.
+### Ahoy-hoy, fellow digital adventurers and code monkeys! I'm Aradhye.
 
 Welcome to my little corner of the internet, where I turn coffee into code and chaotic ideas into (mostly) functional applications. I'm a full-stack developer and AI engineer by trade, which is a fancy way of saying I build cool stuff that people can actually use.
 
@@ -42,6 +42,6 @@ If you're a glutton for punishment and want to see the raw, unfiltered chaos of 
 
 ---
 
-Find me on [LinkedIn](https://www.linkedin.com/in/aradhye-swarup/), stalk my code on [GitHub](https://github.com/cjaradhye), or witness my problem-solving prowess on [LeetCode](https://leetcode.com/u/cjaradhye/).
+Find me on [LinkedIn](https://www.linkedin.com/in/aradhyeswarup/), stalk my code on [GitHub](https://github.com/cjaradhye), or witness my problem-solving prowess on [LeetCode](https://leetcode.com/u/cj_aradhye/).
 
 Go on, connect. Don't be shy.
